@@ -1,0 +1,2 @@
+if the-math == "x / y  = 3.01221222"
+	#only input the first digit of the result. (in this case, is "3")
